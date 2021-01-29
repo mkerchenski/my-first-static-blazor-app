@@ -14,7 +14,7 @@ namespace BlazorApp.Api
     {
         private static string GetSummary(int temp)
         {
-            var summary = "Mild";
+            var summary = "Mild*";
 
             if (temp >= 32)
             {
